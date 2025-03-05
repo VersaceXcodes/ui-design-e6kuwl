@@ -1,0 +1,12 @@
+{
+  "name": "ui-design-e6kuwl",
+  "version": "1.0.0",
+  "description": "Generated project for ui-design-e6kuwl",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
